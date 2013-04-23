@@ -1,3 +1,3 @@
 git fetch upstream
-gck master
+git checkout master
 git rebase upstream/master
